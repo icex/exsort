@@ -13,7 +13,7 @@ Author
 Bogdan Popa (ice.bogdan@gmail.com)
 
 If you think this is useful please consider a donation:
-https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=P4BBXXS9U8DA8&lc=US&item_name=Bogdan%20Popa&item_number=exsort&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
+http://goo.gl/NKGrJ (PayPal)
 
 How to build
 ------------
