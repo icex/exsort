@@ -1,12 +1,17 @@
 ExSort
 ======
 
-PHP Extended Sorting Extension
+PHP Extended Sorting Extension v0.2
+
 
 Author
 ======
 
 Bogdan Popa (ice.bogdan@gmail.com)
+
+This is my first PHP extension so use it at your own risk. 
+
+It shold be stable, I'm using it in a production server to sort a large dataset of numbers on the fly.
 
 If you think this is useful please consider a donation:
 https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=P4BBXXS9U8DA8&lc=US&item_name=Bogdan%20Popa&item_number=exsort&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
