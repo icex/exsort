@@ -37,12 +37,12 @@ $ php large_test.php
 How to use
 ----------
 ```php
-array exsort ( string $array_string , int $sort_flags  )
+array exsort ( string $array_string , int $sort_algo  )
 ```
-where `$array_string` is a comma-delimited list of numbers(serves my purposes this way right now)
-and `$sort_flags` is the sorting algorithm
+where `$array_string` is a comma-delimited list of numbers(serves my purposes this way right now, may be extended in the near future)
+and `$sort_algo` is the sorting algorithm
 
-Sort flags:
+Sort algorithms:
 EXSORT_ALGO_TIM_SORT, EXSORT_ALGO_MERGE_SORT_IN_PLACE, EXSORT_ALGO_SHELL_SORT, EXSORT_ALGO_HEAP_SORT, EXSORT_ALGO_MERGE_SORT, EXSORT_ALGO_QUICK_SORT_NATIVE, EXSORT_ALGO_MERGE_SORT_NATIVE, EXSORT_ALGO_QUICK_SORT
 
 Performance
