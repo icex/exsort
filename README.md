@@ -7,13 +7,6 @@ This is my first PHP extension so use it at your own risk.
 
 It shold be stable, I'm using it in a production server to sort a large dataset of numbers on the fly.
 
-Author
-======
-
-Bogdan Popa (ice.bogdan@gmail.com)
-
-If you think this is useful please consider a donation:
-http://goo.gl/NKGrJ (PayPal)
 
 How to build
 ------------
